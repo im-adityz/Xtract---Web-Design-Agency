@@ -25,7 +25,7 @@ export const Navbar: React.FC = () => {
               2. Uncomment the <img> tag below and remove the text container
           */}
           <div className="flex items-center gap-3">
-            {<img src="./logo.png" alt="Xtract Logo" className="h-8 md:h-9 w-auto object-contain" /> }
+            {/* {<img src="./logo.png" alt="Xtract Logo" className="h-8 md:h-9 w-auto object-contain" /> } */}
             
             <div className="flex items-center gap-2.5">
               {/* <div className="w-8 h-8 bg-white rounded-[4px] flex items-center justify-center shadow-[0_0_20px_rgba(255,255,255,0.2)]">
